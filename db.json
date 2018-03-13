@@ -2,27 +2,27 @@
 [
 {
   "id": 1,
-  "name:"Rahul",
+  "name":"Rahul",
   "age":24
 },
 {
   "id": 2,
-  "name:"Mailkarjun",
+  "name":"Mailkarjun",
   "age":30
 },
 {
   "id": 3,
-  "name:"Kiran",
+  "name":"Kiran",
   "age":23
 },
 {
   "id": 4,
-  "name:"Divya",
+  "name":"Divya",
   "age":24
 },
 {
   "id": 5,
-  "name:"Rohan",
+  "name":"Rohan",
   "age":25
 }
 ]
