@@ -10,30 +10,9 @@
   ],
   
   "profile": [
-{
-  "id": 1,
-  "name": "Rahul",
-  "age": 24
-},
-{
-  "id": 2,
-  "name": "Mailkarjun",
-  "age": 30
-},
-{
-  "id": 3,
-  "name": "Kiran",
-  "age": 23
-},
-{
-  "id": 4,
-  "name": "Divya",
-  "age": 24
-},
-{
-  "id": 5,
-  "name": "Rohan",
-  "age": 25
-}]
+{  "id": 1,  "name": "rahul",  "age": 24},
+{  "id": 2,  "name": "mailkarjun",  "age": 30},
+{  "id": 3,  "name": "kiran",  "age": 23}]
+   
 }
 
